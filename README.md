@@ -1,3 +1,10 @@
+# Twitter Clone
+
+This is a twitter clone with many of the features included.
+
+I used Nuxt 3, Vue 3, TailwindCSS and Prisma to create this.
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
