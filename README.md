@@ -11,9 +11,9 @@
 ![Netlify Status](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/KaloyanG17.js/twitter-clon/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)]([https://GitHub.com/Naereen/StrapDown.js](https://github.com/KaloyanG17.js/twitter-clon/master)/releases/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)]([https://GitHub.com/Naereen/StrapDown.js](https://github.com/KaloyanG17.js/twitter-clon/master)/commit/)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
 
