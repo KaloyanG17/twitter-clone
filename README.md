@@ -2,7 +2,7 @@
 
 I used Nuxt 3, Vue 3, TailwindCSS and Prisma to create this.
 
-[!badge](https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+[![Netlify Status](https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 
 https://twitter-kg.netlify.app
