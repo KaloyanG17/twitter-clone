@@ -2,7 +2,7 @@
 
 I used Nuxt 3, Vue 3, TailwindCSS and Prisma to create this.
 
-![Nuxt](https://badgen.net/npm/node/next)
+(https://badgen.net/npm/node/next)
 
 
 https://twitter-kg.netlify.app
