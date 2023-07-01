@@ -2,8 +2,8 @@
 
 I used Nuxt 3, Vue 3, TailwindCSS and Prisma to create this.
 
-[[![Node version](https://img.shields.io/node/v/20.0.0.svg?style=flat)](https://nodejs.org/download/)](https://img.shields.io/myget/mongodb/dt/MongoDB.Driver.Core
-)
+[![MongoDB](https://img.shields.io/myget/mongodb/dt/MongoDB.Driver.Core)
+
 
 https://twitter-kg.netlify.app
 
