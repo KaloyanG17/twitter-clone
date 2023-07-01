@@ -2,7 +2,7 @@
 
 I used Nuxt 3, Vue 3, TailwindCSS and Prisma to create this.
 
-[![MongoDB](https://img.shields.io/myget/mongodb/dt/MongoDB.Driver.Core)
+![MongoDB](https://img.shields.io/myget/mongodb/dt/MongoDB.Driver.Core)
 
 
 https://twitter-kg.netlify.app
