@@ -1,7 +1,5 @@
 # Twitter Clone
 
-I used Nuxt 3, Vue 3, TailwindCSS and Prisma to create this.
-
 ![Netlify Status](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Netlify Status](https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Netlify Status](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
