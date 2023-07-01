@@ -20,7 +20,6 @@ https://twitter-kg.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2531a3fd-8833-47e6-82cc-32ee8d2d894b/deploy-status)](https://app.netlify.com/sites/twitter-kg/deploys)
 
-https://twitter-clone-kaloyang17.vercel.app
 
 # Nuxt 3 Minimal Starter
 
