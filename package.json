@@ -19,8 +19,10 @@
   "dependencies": {
     "@headlessui/vue": "^1.7.14",
     "@heroicons/vue": "^1.0.6",
+    "@npmcli/fs": "^3.1.0",
     "@prisma/client": "^4.16.1",
     "@tailwindcss/forms": "^0.5.3",
+    "@vercel/analytics": "^1.0.1",
     "bcrypt": "^5.1.0",
     "cloudinary": "^1.37.3",
     "formidable": "^3.4.0",
@@ -28,6 +30,8 @@
     "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^3.1.2",
     "mitt": "^3.0.0",
-    "url-pattern": "^1.0.3"
+    "mongodb": "^5.6.0",
+    "url-pattern": "^1.0.3",
+    "vercel": "^31.0.1"
   }
 }
