@@ -1,7 +1,8 @@
 # Twitter Clone
 
 I used Nuxt 3, Vue 3, TailwindCSS and Prisma to create this.
-[![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](https://nodejs.org/download/)
+
+[![Node version](https://img.shields.io/node/v/20.0.0.svg?style=flat)](https://nodejs.org/download/)
 
 https://twitter-kg.netlify.app
 
